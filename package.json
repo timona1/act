@@ -1,0 +1,19 @@
+{
+  "name": "code-challenge",
+  "version": "1.0.0",
+  "description": "using js to solve challenges",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timona1/act.git"
+  },
+  "author": "Timona Rono",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timona1/act/issues"
+  },
+  "homepage": "https://github.com/timona1/act#readme"
+}
